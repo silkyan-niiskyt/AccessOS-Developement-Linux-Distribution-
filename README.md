@@ -1,4 +1,4 @@
-# AccessOS-Developement-Linux-Distribution
+# AccessOS-Development-Linux-Distribution
 A Linux distribution focused on accessibility and assistive technologies.
 
 ## About
