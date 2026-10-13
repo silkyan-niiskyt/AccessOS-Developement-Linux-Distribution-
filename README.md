@@ -31,3 +31,15 @@ In development
 - Create an accessible Linux environment
 - Develop assistive tools
 - Improve computer usage for people with disabilities
+
+## Devs
+
+Gabriel Conte Rubert Brukmuller (AccessOS Dev)
+
+Solymosi Bendegúz (AccessOS Dev)
+
+Pedro Brotto de Seixas Pinto (AccessOS Dev)
+
+Murilo Caldas Di Renna (AccessAI Dev)
+
+Maike Rodrigues Dantas Machado (AccessAI Dev)
