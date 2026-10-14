@@ -40,6 +40,6 @@ Solymosi Bendegúz (AccessOS Dev)
 
 Pedro Brotto de Seixas Pinto (AccessOS Dev)
 
-Murilo Caldas Di Renna (AccessAI Dev)
+Murilo Caldas di Renna (AccessAI Dev)
 
 Maike Rodrigues Dantas Machado (AccessAI Dev)
