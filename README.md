@@ -28,18 +28,18 @@ In development
 
 ## Goals
 
-- Create an accessible Linux environment
-- Develop assistive tools
-- Improve computer usage for people with disabilities
+- Create an accessible Linux environment.
+- Develop assistive tools.
+- Improve computer usage for people with disabilities.
 
 ## Devs
 
-Gabriel Conte Rubert Brukmuller (AccessOS Dev)
+Gabriel Conte Rubert Brukmuller (AccessOS Dev).
 
-Solymosi Bendegúz (AccessOS Dev)
+Solymosi Bendegúz (AccessOS Dev).
 
-Pedro Brotto de Seixas Pinto (AccessOS Dev)
+Pedro Brotto de Seixas Pinto (AccessOS Dev).
 
-Murilo Caldas di Renna (AccessAI Dev)
+Murilo Caldas di Renna (AccessAI Dev).
 
 Maike Rodrigues Dantas Machado (AccessAI Dev)
