@@ -7,24 +7,24 @@ AccessOS is a Debian-based Linux project designed to improve computer accessibil
 
 ## Features
 
-- KDE Plasma desktop environment
-- Improved readability
-- Accessibility tools
-- Assistive technology experiments
-- Open-source development
+- KDE Plasma desktop environment.
+- Improved readability.
+- Accessibility tools.
+- Assistive technology experiments.
+- Open-source development.
 
 ## Technologies
 
-- Linux
-- Debian
-- Python
-- GTK
-- OpenCV
-- MediaPipe
+- Linux.
+- Debian.
+- Python.
+- GTK.
+- OpenCV.
+- MediaPipe.
 
 ## Status
 
-In development
+In development.
 
 ## Goals
 
